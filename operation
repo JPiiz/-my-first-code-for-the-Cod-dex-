@@ -1,0 +1,11 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        double chemicaIAx = 267.0;
+        double chemicaIBy = 100.0;
+        
+        double result = (chemicaIAx + chemicaIBy) / (chemicaIAx * chemicaIBy);
+        System.out.println(result);
+    
+        
+    }
+}
